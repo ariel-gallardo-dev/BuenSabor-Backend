@@ -1,0 +1,6 @@
+/bin
+/obj
+Backend-BuenSabor.csproj
+appsettings.json
+/Migrations
+.vscode
